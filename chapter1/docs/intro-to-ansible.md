@@ -5,7 +5,6 @@ May need to add ```--user``` to command depending on pip3 environment
 ```
 pip3 install ansible
 ```
-
 Check for correct install with
 ```
 ansible --version
